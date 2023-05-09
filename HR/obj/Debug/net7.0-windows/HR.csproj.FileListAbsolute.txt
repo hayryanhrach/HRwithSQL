@@ -1,0 +1,14 @@
+C:\Users\Hrach\Desktop\HRForms-master\HR\bin\Debug\net7.0-windows\HR.deps.json
+C:\Users\Hrach\Desktop\HRForms-master\HR\bin\Debug\net7.0-windows\HR.dll
+C:\Users\Hrach\Desktop\HRForms-master\HR\bin\Debug\net7.0-windows\HR.pdb
+C:\Users\Hrach\Desktop\HRForms-master\HR\obj\Debug\net7.0-windows\HR.csproj.AssemblyReference.cache
+C:\Users\Hrach\Desktop\HRForms-master\HR\obj\Debug\net7.0-windows\Interop.Accessibility.dll
+C:\Users\Hrach\Desktop\HRForms-master\HR\obj\Debug\net7.0-windows\HR.csproj.ResolveComReference.cache
+C:\Users\Hrach\Desktop\HRForms-master\HR\obj\Debug\net7.0-windows\HR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hrach\Desktop\HRForms-master\HR\obj\Debug\net7.0-windows\HR.AssemblyInfoInputs.cache
+C:\Users\Hrach\Desktop\HRForms-master\HR\obj\Debug\net7.0-windows\HR.AssemblyInfo.cs
+C:\Users\Hrach\Desktop\HRForms-master\HR\obj\Debug\net7.0-windows\HR.csproj.CoreCompileInputs.cache
+C:\Users\Hrach\Desktop\HRForms-master\HR\obj\Debug\net7.0-windows\HR.dll
+C:\Users\Hrach\Desktop\HRForms-master\HR\obj\Debug\net7.0-windows\refint\HR.dll
+C:\Users\Hrach\Desktop\HRForms-master\HR\obj\Debug\net7.0-windows\HR.pdb
+C:\Users\Hrach\Desktop\HRForms-master\HR\obj\Debug\net7.0-windows\ref\HR.dll
